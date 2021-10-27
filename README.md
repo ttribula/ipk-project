@@ -1,1 +1,1 @@
-# fit-vut-ipk
+# ipk-project
